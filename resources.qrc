@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/videos">
+        <file>sample.MOV</file>
+        <file>sample.mp4</file>
+        <file>sample2.mp4</file>
+        <file>pexels.mp4</file>
+    </qresource>
+</RCC>
